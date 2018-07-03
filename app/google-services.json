@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "185700155552",
+    "firebase_url": "https://have-more.firebaseio.com",
+    "project_id": "have-more",
+    "storage_bucket": "have-more.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185700155552:android:30f2e3b14eca3b04",
+        "android_client_info": {
+          "package_name": "com.example.siddharth.have_more"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185700155552-2ed08mc59uv72lgfqqlv6h5t56g4e3km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf79fqy3ECB7kcB3Dy8yE2yeiSf4Hq4Hw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
